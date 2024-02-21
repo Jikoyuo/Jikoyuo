@@ -17,6 +17,9 @@
   <li>
     🪙 Crypto Lovers, holding some Crypto Now on My Portfolio
   </li>
+  <li>
+    👨‍🎓 Sanata Dharma Undergraduate Computer Science
+  </li>
 </ul>
 
 <pre>
