@@ -12,8 +12,19 @@
 
 <ul>
   <li>
-    🌱 I
+    🎯 Currently learning frontend website developer.
+  </li>
+  <li>
+    🪙 Crypto Lovers, holding some Crypto Now on My Portfolio
   </li>
 </ul>
+
+<pre>
+      <ol>
+        <li>
+          
+        </li>
+      </ol>
+</pre>
 
 
