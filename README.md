@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://i.giphy.com/media/rmDgPFmVlMTp6vTXmM/giphy.webp">
+  <img src= "https://giphy.com/embed/LpFCd53NGbSFmZqypH">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haipiggi&label=Profile%20views&color=0e75b6&style=flat" alt="haipiggi" /> </p>
 
