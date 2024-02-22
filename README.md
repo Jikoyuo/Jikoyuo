@@ -20,7 +20,11 @@
     🎯 Currently learning frontend website developer.
   </li>
   <li>
-    🪙 Crypto Lovers, holding some Crypto Now on My Portfolio
+    🪙 Crypto Enthusiast, Currently Investing Some Crypto on My Portfolio
+        <ul>
+          <li>$Planet
+          <li>$Ondo
+        </ul>
   </li>
   <li>
     👨‍🎓 Sanata Dharma Undergraduate Computer Science
