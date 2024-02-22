@@ -3,9 +3,14 @@
 </p>
 
 
-<h3 align="center"> Learning Frontend Website Frontend Developer From Indonesia</h3>
-<br>
 
+<h3 align="center">A young-dumb frontend learner 🤓, i'm from Indonesia 🇮🇩</h3>
+<br>
+<h2 align="center">Chornael Damar Kesuma </h2>
+<br />
+<em>
+<h2 align="center">Jikoyuo</h2>
+</em><br />
 <p align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJiOWsxdXh0dnRwb3ZwdXZ2dDk0Z3Q2aXNxMGVtbHVqNjZoaDNkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LpFCd53NGbSFmZqypH/giphy.gif">
 </p>
