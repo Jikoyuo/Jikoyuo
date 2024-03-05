@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">A young-dumb frontend learner 🤓, i'm from Indonesia 🇮🇩</h3>
+<h3 align="center">Hello there ! i'm from Indonesia 🇮🇩</h3>
 <br>
 <h2 align="center">Chornael Damar Kesuma </h2>
 <br />
