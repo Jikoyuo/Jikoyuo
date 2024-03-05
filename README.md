@@ -20,10 +20,10 @@
     🎯 Currently learning frontend website developer.
   </li>
   <li>
-    🪙 Crypto Enthusiast, Currently Investing Some Crypto on My Portfolio
+    ################
         <ul>
-          <li>$Planet
-          <li>$Ondo
+          <li>###
+          <li>###
         </ul>
   </li>
   <li>
